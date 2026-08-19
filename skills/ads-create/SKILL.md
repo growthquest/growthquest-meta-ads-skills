@@ -11,7 +11,7 @@ profile and optional audit data. Outputs `campaign-brief.md` for use by `/ads ge
 
 ## ⚠ Lead Gen Static Override (binding)
 
-If `--objective leads` is set, OR if the brand profile is for a lead gen client (Van Media, HVAC, financial advisors, dog trainers, agency offers, info products, coaching, any DR offer that captures leads rather than selling a physical product), the **Lead Gen Static Ad Framework** is binding for every static concept.
+If `--objective leads` is set, OR if the brand profile is for a lead gen client (HVAC, financial advisors, dog trainers, agency offers, info products, coaching, any DR offer that captures leads rather than selling a physical product), the **Lead Gen Static Ad Framework** is binding for every static concept.
 
 **Read first:** `../_shared/lead-gen-static-framework.md`
 

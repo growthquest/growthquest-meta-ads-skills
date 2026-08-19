@@ -1,6 +1,6 @@
 ---
 name: feedback-lead-gen-static-ads
-description: "Canonical pattern framework for high-performing direct-response static ads. Apply to every lead gen static ad we create, especially Van Media. Derived from analysis of 16 winning statics in the Van Media Inspo folder."
+description: "Canonical pattern framework for high-performing direct-response static ads. Apply to every lead gen static ad we create. Derived from analysis of 16 winning direct-response statics."
 metadata: 
   node_type: memory
   type: feedback
@@ -9,9 +9,9 @@ metadata:
 
 # Lead Gen Static Ad Framework — Apply To Every Lead Gen Static We Make
 
-**Why:** Pattern analysis of 16 winning/high-performing lead gen statics (May 2026 Van Media Inspo folder) revealed a tight, repeatable set of rules that every winner follows. Ignoring these rules produced the ads Van Media's previous batches looked like — branded, generic, ignorable. These rules are now the default.
+**Why:** Pattern analysis of 16 winning/high-performing lead gen statics (May 2026) revealed a tight, repeatable set of rules that every winner follows. Ignoring these rules produced the ads generic batches looked like — branded, generic, ignorable. These rules are now the default.
 
-**How to apply:** Use this checklist as the brief skeleton for any static lead gen ad — from concept selection through design QA — before any creative goes to a designer. Especially Van Media. Also applies to any other lead gen client (HVAC, dog trainers, financial advisors, agency offers, info products, B2B services, etc.). For ecom or brand awareness, this framework is NOT the default — use only the principles that transfer.
+**How to apply:** Use this checklist as the brief skeleton for any static lead gen ad — from concept selection through design QA — before any creative goes to a designer. Also applies to any other lead gen client (HVAC, dog trainers, financial advisors, agency offers, info products, B2B services, etc.). For ecom or brand awareness, this framework is NOT the default — use only the principles that transfer.
 
 ---
 
@@ -78,7 +78,7 @@ Hard rule: never more than 3 colors. Extreme contrast between text and backgroun
 
 The 6 that DID show brand placed it subtly: small top-center logo (Unleashed), tucked into a footer with Trustpilot (AI Partner), or inside a testimonial card. Brand never competes with the message.
 
-**The lesson for Van Media:** save the logo for the landing page. The static's job is to look like content, not a Van Media ad. If the static reads as "branded," it's losing to the ones that don't.
+**The lesson:** save the logo for the landing page. The static's job is to look like content, not a branded ad. If the static reads as "branded," it is losing to the ones that don't.
 
 This is the opposite of brand-awareness ad design. Direct-response = hide the brand, lead with the message.
 
@@ -110,7 +110,7 @@ Every value prop must have:
 
 All three in the first 5 seconds. Risk reversal is the difference between "wishful" and "trusted."
 
-**Always include the negatives.** "No courses. No gurus." / "No chasing leads required" / "No networking. No dinner seminars." Telling the reader what they're NOT signing up for defuses skepticism. This was the most underused move in Van Media's prior batches.
+**Always include the negatives.** "No courses. No gurus." / "No chasing leads required" / "No networking. No dinner seminars." Telling the reader what they're NOT signing up for defuses skepticism. This was the most underused move in prior generic batches.
 
 ---
 
@@ -178,8 +178,6 @@ If 2+ items fail, the creative is not ready.
 
 ## Related
 
-- [[project_vanmedia_claim_rules.md]] — what claims Van Media can/can't make in the body copy (still binding regardless of which archetype)
-- [[project_vanmedia_inspo_sync.md]] — Inspo folder location on desktop + Drive
 - [[feedback_meta_static_copy_length.md]] — Meta static copy length rule (50–75 words for primary text); this framework governs the in-image copy and design
 - [[feedback_static_brief_format.md]] — Brief document format for the designer
 - [[feedback_ad_copy_formatting.md]] — Primary text formatting for the Meta ad copy box (separate from on-image)

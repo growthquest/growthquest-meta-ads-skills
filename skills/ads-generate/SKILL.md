@@ -11,7 +11,7 @@ profile. Uses banana-claude as the image generation provider.
 
 ## ⚠ Lead Gen Static Override (binding)
 
-Before generating any image for a lead gen brief, read the **Lead Gen Static Ad Framework** at `../_shared/lead-gen-static-framework.md` and confirm the brief follows it. Apply to ALL lead gen clients (Van Media, HVAC, financial advisors, dog trainers, agency offers, info products, coaching, any DR lead capture offer).
+Before generating any image for a lead gen brief, read the **Lead Gen Static Ad Framework** at `../_shared/lead-gen-static-framework.md` and confirm the brief follows it. Apply to ALL lead gen clients (HVAC, financial advisors, dog trainers, agency offers, info products, coaching, any DR lead capture offer).
 
 Image generation rules for lead gen statics:
 - Render to ONE of the 7 archetypes (tweet, native-OS, news chyron, plain-text billboard, apology, handwritten, branded testimonial). The brief must specify which.
